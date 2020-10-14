@@ -1,0 +1,261 @@
+body{
+    font-family: 'EB Garamond', serif;
+    font-size: 17px;
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+    color: #904750;
+}
+
+.white-section{
+    padding-bottom: 120px;
+}
+
+.colored-section{
+    background-color: #F7F5F1;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+a:link {
+    color:  #904750;
+  }
+  
+  /* visited link */
+  a:visited {
+    color:  #904750
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #904750;
+  }
+  
+  /* selected link */
+  a:active {
+    color:  #904750;
+  }
+
+  .btn{
+    background-color: transparent;
+    color: #904750;
+    margin-top: 24px;
+    border-color: #904750;
+}
+
+.btn:hover{
+    background-color: #904750;
+    border-color: transparent;
+}
+
+.btn:active{
+    background-color: #904750;
+    border-color: transparent;
+}
+
+.unique{
+    color: #904750;
+    font-style:italic;
+}
+
+
+/*header section */
+.covid_notice{
+    background-color: #904750;
+    padding-top: 12px;
+    padding-bottom: 4px;
+}
+
+.covid_notice p {
+    color: #ffffff;
+}
+
+.contact_us{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+.contact_us p{
+    padding-top: 8px;
+    text-align: right;
+}
+
+.logo{
+    height: 150px;
+    width: 350px;
+}
+
+.navbar {
+    text-align: center;
+    margin: auto;
+}
+
+.navbar-nav{
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nav-item{
+    margin-right: 16px;
+}
+
+.nav-link:hover{
+    font-weight: bold;
+    transition: all 1 ease-in-out;
+}
+
+/*header section */
+
+#our_story{
+    padding-top: 40px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+}
+
+#our_story h2{
+    margin-bottom: 40px;
+}
+
+.our_story_text{
+    text-align: left;
+}
+
+/* What Matters to Us Section */
+
+#what_matters_to_us{
+    padding-left: 120px;
+    padding-right: 120px;
+}
+
+#what_matters_to_us h2{
+    margin-bottom: 80px;
+}
+
+.card{
+    background-color:#fffdfd;
+    border-color: #f6f6f6;
+    border-width: 0.5px;
+}
+
+.card-img-top{
+    margin-top: 24px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.card-title{
+font-size: 24px;
+}
+
+/* Featured In Section */
+
+#featured_in{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+}
+
+#featured_in h2{
+    margin-bottom: 40px;
+}
+
+.magazine_logos{
+    text-align: center;
+    display: flex;
+}
+
+.logo_pic{
+    width: 50%;
+    align-items: flex-start;
+}
+
+.jck{
+    text-align: left;
+    margin-left: 120px;
+}
+
+.washingtonian{
+    text-align: right;
+    margin-right: 0px;
+    padding-left: 300px;
+}
+
+/* Previously Completed Designs Section */
+
+#previously_completed{
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+}
+
+#previously_completed h2{
+    margin-bottom: 60px;
+}
+
+.social-media-img{
+    width: 95%;
+}
+
+/* CTA Section */
+.cta{
+    background-image: url("../images/cta.png");
+    height: 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+.cta_text h1{
+    color: #333333;
+    font-weight: normal;
+}
+
+.cta_text .btn{
+    background-color: #904750;
+    color: #ffffff;
+
+}
+/* Footer */
+
+.footer-content{
+    padding-bottom: 80px;
+    padding-top: 80px;
+    padding-left: 120px;
+    padding-right: 120px;
+    display: flex;
+}
+
+.socials_copyright{
+    text-align: left;
+    width: 50%;
+    margin-right: 750px;
+}
+
+
+.address{
+    text-align: left;
+    width: 50%; 
+    display: flex;
+}
+
+
+.fab{
+    font-size: 32px;
+    color: #904750;
+    margin-right: 16px;
+}
+
+.footer-text{
+    color: #904750;
+}
+
+.copyright{
+    margin-top: 16px;
+}
+
